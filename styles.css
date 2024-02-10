@@ -1,0 +1,20 @@
+#sec1{
+    border: 1px solid black;
+    padding: 1.5%;
+}
+#sec2{
+    margin-left: 0.7%;
+}
+#sec3{
+    margin-left: 0.7%;
+}
+ol{
+    padding-left: 22px;
+}
+div{
+    color: #000;
+
+}
+a:link {
+    text-decoration-color: #000;
+  }
